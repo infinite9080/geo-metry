@@ -1,0 +1,44 @@
+.bg_skyblue {
+  background-color: rgba(16, 144, 216, 0.1);
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 45px;
+}
+.sub_logo {
+  font-weight: 500;
+  font-size: 32px;
+  color: rgba(17, 17, 17, 0.6);
+}
+
+.color-div {
+  background-color: #fff;
+  transition: 1s ease-in-out;
+}
+.color-div:hover {
+  background-color: #fff;
+}
+/* #hidden-triangle {
+  display: none;
+} */
+#hidden-rectangle {
+  display: none;
+}
+/* #hidden-pentagon {
+  display: none;
+} */
+#hidden-rhombus {
+  display: none;
+}
+#hidden-ellipse {
+  display: none;
+}
+#hidden-parallelogram {
+  display: none;
+}
+
+.btn_font-size {
+  font-size: 14px;
+  font-weight: 700;
+}
